@@ -1,21 +1,13 @@
 # Smart City — Cidade Inteligente
 
-Projeto de redes desenvolvido no Cisco Packet Tracer para representar uma cidade inteligente (Smart City), com ambientes conectados e serviços de rede.
+Projeto acadêmico desenvolvido no Cisco Packet Tracer para representar uma cidade inteligente, com ambientes conectados e serviços de rede.
 
-## Arquivos do projeto
+## Como explorar a simulação
 
-- `Cidade Redes.pkt` — topologia do Cisco Packet Tracer.
-- `Integrantes e funções.docx` — documento original com a divisão de responsabilidades da equipe.
-- `Integrantes-e-Funcoes.md` — versão em Markdown da divisão de responsabilidades.
-
-**Observação:** os arquivos originais `.pkt` e `.docx` ainda precisam ser enviados para este repositório.
-
-## Como utilizar
-
-1. Abra o Cisco Packet Tracer.
-2. Abra o arquivo `Cidade Redes.pkt`.
-3. Consulte a divisão de tarefas da equipe no arquivo de integrantes.
+1. Baixe [`Smart City (final).pkt`](Smart%20City%20%28final%29.pkt) pelo GitHub.
+2. Abra o arquivo no Cisco Packet Tracer.
+3. Explore a topologia e os dispositivos configurados. Use o modo de simulação para acompanhar o tráfego entre dispositivos.
 
 ## Equipe e responsabilidades
 
-Consulte [Integrantes e funções](./Integrantes-e-Funcoes.md).
+Consulte [Integrantes e funções](Integrantes-e-Funcoes.md).
